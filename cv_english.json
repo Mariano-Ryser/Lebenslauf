@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "Mariano Nicolas Ryser",
+    "label": "Full-Stack developer with more than 3 years of experience",
+    "image": "/foto.jpeg",
+    "email": "rysermariano@gmail.com",
+    "phone": "+41 788 747974",
+    "url": "https://zeep-front.vercel.app/",
+    "summary": "Currently I continue developing personal projects and studying, I live in Zurich, Switzerland, where I have carried out different studies, I participate in OpenSource communities for both development and video games.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Zurich",
+      "countryCode": "DE",
+      "region": "Switzerland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mariano-ryser",
+        "url": "https://www.linkedin.com/in/mariano-ryser-073731221/"
+      },
+      {
+        "network": "X",
+        "username": "mariano-ryser",
+        "url": "https://x.com/RyserMariano"
+      },
+      {
+        "network": "GitHub",
+        "username": "mariano-ryser",
+        "url": "https://github.com/Mariano-Ryser"
+      }
+    ]
+  },
+  "work": [
+ 
+    {
+      "name": "PubliBike «Züri Velo»",
+      "position": "Logistik",
+      "url": "",
+      "startDate": "2023-05-12",
+      "endDate": "2023-06-12",
+      "summary": "Integration work in switzerland",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Patio Cervecero (Argentina)",
+      "position": "Customer support",
+      "url": "",
+      "startDate": "2016-01-15",
+      "endDate": "2018-02-04",
+      "summary": "Restaurant jobs, customer service and kitchen manager",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Grand Hotel (Argentina - Neuquen)",
+      "position": "Administration assistant and receptionist",
+      "url": "",
+      "startDate": "2015-05-15",
+      "endDate": "2015-10-03",
+      "summary": "Mountain hotel temporary winter work, sky center",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Strega (Argentina - Cordoba)",
+      "position": "Customer service",
+      "url": "",
+      "startDate": "2013-01-15",
+      "endDate": "2014-09-03",
+      "summary": "Customer service and delivery person.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Hotel Acuario (Argentina - Mendoza)",
+      "position": "cadet, receptionist, night auditor.",
+      "url": "",
+      "startDate": "2010-06-11",
+      "endDate": "2012-09-11",
+      "summary": "Mountain hotel temporary winter work, sky center",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [
+    {
+      "institution": "MongoDb University - Online",
+      "url": "https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path",
+      "area": "NodeJs Developer Path",
+      "studyType": "Bachelor",
+      "startDate": "2024-05-01",
+      "endDate": "2024-05-10",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+    ,{
+    "institution": "Fachschule Viventa",
+    "url": "https://www.linkedin.com/company/opportunity-z%C3%BCrich/",
+    "area": "Orientation integration",
+    "studyType": "Bachelor",
+    "startDate": "2022-08-01",
+    "endDate": "2023-01-12",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  }
+  ,{
+    "institution": "Opportunity Zurich",
+    "url": "https://www.linkedin.com/company/opportunity-z%C3%BCrich/",
+    "area": "Software Developer",
+    "studyType": "Bachelor",
+    "startDate": "2021-04-04",
+    "endDate": "2021-02-12",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Klub Migros Schule",
+    "url": "https://www.klubschule.ch/",
+    "area": "German",
+    "studyType": "Bachelor",
+    "startDate": "2019-02-10",
+    "endDate": "2021-02-12",
+    "score": "4.0",
+    "courses": [
+      "German"
+    ]
+  },
+  {
+    "institution": "Jeronimo Luis de Cabrera",
+    "url": "",
+    "area": "Primary and Secondary school",
+    "studyType": "Bachelor",
+    "startDate": "1997-02-10",
+    "endDate": "2009-02-12",
+    "score": "4.0",
+    "courses": [
+      "German"
+    ]
+  }
+  
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Mongo",
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "noSQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [  
+    {
+      "name": "Zeep Blog",
+      "isActive": true,
+      "description": "This portfolio is built on Next.JS where my frontend runs, and the backend is deployed on Azure, the database interaction is created with NodeJs and Mongo DB.",
+      "highlights": [
+        "Open Source Github"
+      ],
+      "url": "https://zeep-front.vercel.app/",
+      "github": "https://github.com/Mariano-Ryser/SAP"
+    }
+  ]
+}
